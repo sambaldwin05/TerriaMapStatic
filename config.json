@@ -12,12 +12,12 @@
             "text": "Disclaimer: This map must not be used for navigation or precise spatial analysis",
             "url": ""
         },
-        "developerAttribution-CHANGETHIS": {
-            "text": "Your organisation",
-            "link": "http://www.example.com"
+        "developerAttribution": {
+            "text": "Sam Baldwin",
+            "link": "http://www.lidar.io"
         },
-        "appName": "Terria Map Static",
-        "supportEmail-CHANGETHIS": "help@example.com",
+        "appName": "Sam's Terria Map Static",
+        "supportEmail": "help@example.com",
         "brandBarElements": [
             "",
             "<a target=\"_blank\" href=\"http://www.nicta.com.au\"><img src=\"images/terria_logo.png\" height=\"52\" title=\"Version: {{version}}\" /></a>",
